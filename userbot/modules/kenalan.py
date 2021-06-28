@@ -38,15 +38,3 @@ async def typewriter(typew):
 # Create by myself @localheart
 
 
-CMD_HELP.update({
-    "pebi":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.pebi`\
-    \n↳ : Perkenalan Diri"
-    "piki":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.piki`\
-    \n↳ : Perkenalan Diri"
-    "semangat":
-    "𝘾𝙤𝙢𝙢𝙖𝙣𝙙: `.semangat`\
-    \n↳ : gabutan aja ye"
-    }
-)
